@@ -1,7 +1,7 @@
 <h2 align="left">Hi, I am Christo Álvarez!</h2>
 <h4> an engineering student, currently at the "National Technological Institute of Mexico, Apizaco campus"</h4>
  I love music and just like with music, I agree that with code, you can create anything.<h3 align="center">Un apasionado desarrollador de frontend de la India</h3>
-<h1 align="center">Hola 👋, soy Christo Alvarez</h1>
+
 <h3 align="center">Un apasionado desarrollador frontend de México</h3>
 
 <h3 align="left">Conéctate conmigo:</h3>
