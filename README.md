@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hello, I am Christo Álvarez, an engineering student, currently at the "National Technological Institute of Mexico, Apizaco campus", I love music and just like with music, I agree that with code, you can create anything.</h2>
 
 ###
 
