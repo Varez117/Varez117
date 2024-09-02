@@ -22,7 +22,7 @@ Here are some ideas to get you started:
     
 
     
-<h3>🖥️ Technical Skills:<\h3>
+<h3> >> Technical Skills
 <p align="left">
   <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
@@ -45,10 +45,10 @@ Here are some ideas to get you started:
   
 </p>
 
-# 📊 GitHub Stats:
 
-<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
+<p align="center"> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
 <br/>
+<p\>
 
 <!--START_SECTION:waka-->
 
