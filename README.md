@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1500&pause=2000&color=EE0EBC&center=verdadero&vCenter=verdadero&repeat=verdadero&random=FALSO&width=435&lines=Freelancer;love+music+and+just+like+with+music;+agree+that+with+code;+you+can+create+anything." alt="Typing SVG" /></a></p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1500&pause=2000&color=EE0EBC&center=verdadero&vCenter=verdadero&repeat=verdadero&random=FALSO&width=435&lines=Freelancer;love+music+and+just+like+with+music;+agree+that+with+code;+you+can+create+anything." alt="Typing SVG" /></a>
+</p>
     
 
     
