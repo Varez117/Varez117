@@ -1,7 +1,9 @@
 <h2 align="left">Hi, I am Christo Álvarez!</h2>
 <h4> an engineering student, currently at the "National Technological Institute of Mexico, Apizaco campus"</h4>
  I love music and just like with music, I agree that with code, you can create anything.
-###
+
+ 
+<!--###-->
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
