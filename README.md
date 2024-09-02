@@ -1,5 +1,5 @@
 <h2 align="left">Hello, I am Christo Álvarez! an engineering student, currently at the "National Technological Institute of Mexico, Apizaco campus".</h2>
-<h3> I love music and just like with music, I agree that with code, you can create anything.</h3>
+ I love music and just like with music, I agree that with code, you can create anything.
 ###
 
 <div align="center">
