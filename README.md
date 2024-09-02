@@ -1,10 +1,12 @@
 <h2 align="left">Hi, I am Christo Álvarez!</h2>
 <h4> an engineering student, currently at the "National Technological Institute of Mexico, Apizaco campus"</h4>
  I love music and just like with music, I agree that with code, you can create anything.<h3 align="center">Un apasionado desarrollador de frontend de la India</h3>
+<h1 align="center">Hola 👋, soy Christo Alvarez</h1>
+<h3 align="center">Un apasionado desarrollador frontend de México</h3>
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/christo alvarez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="christo alvarez" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/christo-%c3%a1lvarez-a5b132230/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/christo-%c3%a1lvarez-a5b132230/" height="30" width="40" /></a>
 <a href="https://fb.com/varez christo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="varez christo" height="30" width="40" /></a>
 <a href="https://instagram.com/varez117" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="varez117" height="30" width="40" /></a>
 </p>
@@ -15,9 +17,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=varez117&show_icons=true&locale=es&layout=compact" alt="varez117" /></p>
 
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=varez117&show_icons=true&locale=es" alt="varez117" /></p>
-
-
- 
 <!--###-->
 
 <div align="center">
