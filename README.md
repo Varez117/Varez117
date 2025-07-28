@@ -15,7 +15,7 @@
 - 💻 Me encanta combinar la creatividad con la tecnología
 - 🎧 Amante de la música: siempre me acompaña cuando programo
 - 📫 Contáctame en [LinkedIn](https://www.linkedin.com/in/christo-%C3%A1lvarez-a5b132230)
-- 🌟 Dato curioso: Creo que programar es tan expresivo como componer música
+- 🌟 Dato curioso: *El teclado no solo escribe líneas de código, también compone ideas, soluciones... y a veces, auténticas obras maestras.*
 
 ---
 
