@@ -1,25 +1,25 @@
-<h2 align="left">👋 Hi, I'm Christo Álvarez!</h2>
-<h4 align="left">🎓 Engineering student at Tecnológico Nacional de México, Campus Apizaco</h4>
+<h2 align="left">👋 ¡Hola! Soy Christo Álvarez</h2>
+<h4 align="left">🎓 Estudiante de Ingeniería en Tecnologías de la Información y Comunicación en el Tecnológico Nacional de México, Campus Apizaco</h4>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1500&pause=2000&color=EE0EBC&center=true&vCenter=true&repeat=true&width=500&lines=Freelancer+and+Tech+Enthusiast;Music+Lover+%E2%99%AB;Believe+that+just+like+music%2C+code+can+create+anything!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1500&pause=2000&color=EE0EBC&center=true&vCenter=true&repeat=true&width=500&lines=Desarrollador+Creativo;Amante+del+Código+y+la+Música;Construyendo+el+futuro+con+tecnología" alt="Typing SVG" />
   </a>
 </p>
 
 ---
 
-### 🧠 About Me
+### 💡 Sobre mí
 
-- 🌱 Currently learning: **Frontend Web Development**, **Python**, and **C++**
-- 💻 I love combining **creativity** with **code** to solve real-world problems
-- 🎧 Passionate about music — it fuels my focus and inspiration
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/christo-%C3%A1lvarez-a5b132230)
-- 🌟 Fun fact: I believe the keyboard is just another musical instrument — both can compose wonders
+- 🌱 Actualmente aprendiendo **Desarrollo Web**, **Python** y **C++**
+- 💻 Me encanta combinar la creatividad con la tecnología
+- 🎧 Amante de la música: siempre me acompaña cuando programo
+- 📫 Contáctame en [LinkedIn](https://www.linkedin.com/in/christo-%C3%A1lvarez-a5b132230)
+- 🌟 Dato curioso: Creo que programar es tan expresivo como componer música
 
 ---
 
-### 💻 Tech Stack
+### 🧠 Tecnologías y herramientas
 
 <p align="left">
   <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
@@ -44,18 +44,31 @@
 
 ---
 
-### 📊 GitHub Stats
+### 🐍 Snake Game — Proyecto Destacado
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChristoAlvarez&show_icons=true&theme=radical" alt="Christo's GitHub stats" width="50%"/>
+  <b>¡Mira cómo se ve mi juego Snake!</b><br>
+  <img src="https://raw.githubusercontent.com/TU-USUARIO/TU-REPO/main/snake-preview.gif" alt="Vista previa del Snake Game" width="500"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChristoAlvarez&layout=compact&theme=radical" alt="Top Languages" width="42%"/>
+  ▶️ <a href="https://TUNOMBRE.github.io/SnakeGame/">Jugar en vivo</a> | 📂 <a href="https://github.com/TUNOMBRE/SnakeGame">Ver el código en GitHub</a>
+</p>
+
+---
+
+### 📈 Estadísticas de GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ChristoAlvarez&show_icons=true&theme=radical" alt="Stats" width="50%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChristoAlvarez&layout=compact&theme=radical" alt="Lenguajes" width="42%"/>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="GIF" width="180px">
 </p>
