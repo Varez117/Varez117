@@ -22,7 +22,7 @@
     <p>
 <img src="https://img.shields.io/badge/Metodolog%C3%ADa-Scrum_%26_Agile-FF4500?style=for-the-badge&logo=scrumalliance&logoColor=white" />
 <img src="https://img.shields.io/badge/Enfoque-Data_Science-FF8C00?style=for-the-badge&logo=jupyter&logoColor=white" />
-<img src="https://img.shields.io/badge/Skill-Problem_Solving-E65100?style=for-the-badge&logo=target&logoColor=white" />
+<img src="https://img.shields.io/badge/Skill-Resoluci%C3%B3n_de_Problemas-E65100?style=for-the-badge&logo=target&logoColor=white" />
     </p>
   </div>
 </div>
@@ -31,13 +31,6 @@
 <p align="center">
   Estudiante de <b>Ingeniería en TIC</b>, con gran interés en la ciencia de datos y el aprendizaje automático (Machine Learning). Cuento con formación sólida en programación, enfocado en el desarrollo de software y la automatización de procesos. Tengo experiencia en proyectos académicos y trabajo en equipo, siempre orientado a aportar valor y soluciones eficientes.
 </p>
-
-<h3 align="center">🎓 Formación Académica</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/Ingenier%C3%ADa_TIC-En_Curso-0077B5?style=flat&logo=bookstack&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Machine_Learning-Autodidacta-F09819?style=flat&logo=udemy&logoColor=white" />
-</div>
 
 <h3 align="center">📫 Conecta conmigo</h3>
 <div align="center">
