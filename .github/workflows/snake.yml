@@ -1,0 +1,41 @@
+name: Generate Snake
+
+on:
+  # Se ejecuta automáticamente cada 12 horas
+  schedule:
+    - cron: "0 */12 * * *" 
+  
+  # Permite ejecutarlo manualmente desde la pestaña Actions
+  workflow_dispatch:
+  
+  # Se ejecuta en cada push a la rama master/main
+  push:
+    branches:
+    - master
+    - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Generate Snake
+        uses: Platane/snk@v3
+        with:
+          # Nombre de usuario de GitHub
+          github_user_name: ${{ github.repository_owner }}
+          # Los archivos de salida (el svg y el dark mode)
+          outputs: |
+            dist/snake.svg
+            dist/snake-dark.svg?palette=github-dark
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
