@@ -1,19 +1,22 @@
 name: Generate Snake
-permissions: contents: write
+
+# Permisos necesarios para escribir en la rama de salida
+permissions: 
+  contents: write
 
 on:
   # Se ejecuta automáticamente cada 12 horas
   schedule:
-    - cron: "0 */12 * * *" 
+    - cron: "0 */12 * * *"
   
   # Permite ejecutarlo manualmente desde la pestaña Actions
   workflow_dispatch:
   
-  # Se ejecuta en cada push a la rama master/main
+  # Se ejecuta en cada push a la rama master o main
   push:
     branches:
-    - master
-    - main
+      - master
+      - main
 
 jobs:
   build:
