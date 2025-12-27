@@ -14,18 +14,16 @@
 
   <p><i>"La lógica es la esencia, el código su expresión."</i></p>
 
-  <a href="https://www.linkedin.com/in/christo-%C3%A1lvarez-a5b132230" target="_blank">
-    <img src="https://img.shields.io/badge/Ver_Curriculum-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="CV" />
-  </a>
-
   <div align="center" style="margin-top: 20px;">
     <b>Core:</b> <img src="https://skillicons.dev/icons?i=py,java,cpp,cs" height="25" style="vertical-align: middle;" /> &nbsp;|&nbsp;
     <b>Web:</b> <img src="https://skillicons.dev/icons?i=html,css,js" height="25" style="vertical-align: middle;" /> &nbsp;|&nbsp;
     <b>Tools:</b> <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,mysql" height="25" style="vertical-align: middle;" />
+    
     <br><br>
-<img src="https://img.shields.io/badge/Metodolog%C3%ADa-Scrum_&_Agile-5C5C5C?style=flat-square" />
-<img src="https://img.shields.io/badge/Focus-Data_Analysis-5C5C5C?style=flat-square" />
-<img src="https://img.shields.io/badge/Skill-Problem_Solving-5C5C5C?style=flat-square" />
+
+<img src="https://img.shields.io/badge/Metodolog%C3%ADa-Scrum_%26_Agile-FF4500?style=for-the-badge&logo=scrumalliance&logoColor=white" />
+<img src="https://img.shields.io/badge/Enfoque-Data_Science-FF8C00?style=for-the-badge&logo=googleanalytics&logoColor=white" />
+<img src="https://img.shields.io/badge/Skill-Resoluci%C3%B3n_de_Problemas-E65100?style=for-the-badge&logo=target&logoColor=white" />
   </div>
 </div>
 
