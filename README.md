@@ -2,11 +2,13 @@
   <img height="180" src="https://i.imgflip.com/afxx9z.gif" alt="coding cat gif" />
   
   <h1 align="center">Varez117</h1>
-  
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F09819&center=true&vCenter=true&width=435&lines=Ingenier%C3%ADa+en+TIC;Data+Science+%26+ML;Desarrollo+de+Software;Automatizaci%C3%B3n" alt="Typing SVG" />
+  </a>
+
   <p align="center">
     <i>"La lógica es la esencia, el código su expresión."</i>
-    <br>
-    <i>"Logic is the essence, code is its expression."</i>
   </p>
 
   <div align="center">
@@ -29,19 +31,17 @@
 
 <br>
 
-<h3 align="center">👨‍💻 About Me</h3>
+<h3 align="center">👨‍💻 Sobre Mí</h3>
 
-> **🇪🇸 Español** > Estudiante de **Ingeniería en TIC**, con gran interés en la ciencia de datos y el aprendizaje automático (Machine Learning).  
-> Cuento con formación sólida en programación, enfocado en el desarrollo de software y la automatización de procesos. Tengo experiencia en proyectos académicos y trabajo en equipo, siempre orientado a aportar valor y soluciones eficientes.
-
-<br>
-
-> **🇺🇸 English** > **ICT Engineering** student with a strong interest in Data Science and Machine Learning.  
-> I have a solid background in programming, focusing on software development and automation. I have experience in academic projects and teamwork, always value-oriented and driven to provide efficient solutions.
+<p align="center" width="80%">
+  Estudiante de <b>Ingeniería en TIC</b>, con gran interés en la ciencia de datos y el aprendizaje automático (Machine Learning).
+  <br><br>
+  Cuento con formación sólida en programación, enfocado en el desarrollo de software y la automatización de procesos. Tengo experiencia en proyectos académicos y trabajo en equipo, siempre orientado a aportar valor y soluciones eficientes.
+</p>
 
 ###
 
-<h3 align="left">🛠 Languages & Tools</h3>
+<h3 align="left">🛠 Lenguajes y Herramientas</h3>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py" height="50" alt="python logo" />
@@ -59,7 +59,7 @@
 
 ###
 
-<h3 align="left">🚀 Proyectos Destacados</h3>
+<h3 align="left">🚀 Proyecto Destacado</h3>
 
 <table>
   <tr>
@@ -80,7 +80,6 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Varez117/count.svg" alt="visitor count" />
   <br><br>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF512F,100:F09819&height=100&section=footer" width="100%"/>
 </div>
