@@ -1,4 +1,5 @@
 name: Generate Snake
+permissions: contents: write
 
 on:
   # Se ejecuta automáticamente cada 12 horas
