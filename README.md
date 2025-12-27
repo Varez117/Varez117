@@ -4,7 +4,7 @@
   <h1 align="center">Varez117</h1>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F09819&center=true&vCenter=true&width=435&lines=Ingenier%C3%ADa+en+TIC;Data+Science+%26+ML;Desarrollo+de+Software;Automatizaci%C3%B3n" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=F09819&center=true&vCenter=true&width=435&lines=Ingenier%C3%ADa+en+TIC;Data+Science+%26+ML;Desarrollo+de+Software;Automatizaci%C3%B3n" alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -34,9 +34,7 @@
 <h3 align="center">👨‍💻 Sobre Mí</h3>
 
 <p align="center" width="80%">
-  Estudiante de <b>Ingeniería en TIC</b>, con gran interés en la ciencia de datos y el aprendizaje automático (Machine Learning).
-  <br><br>
-  Cuento con formación sólida en programación, enfocado en el desarrollo de software y la automatización de procesos. Tengo experiencia en proyectos académicos y trabajo en equipo, siempre orientado a aportar valor y soluciones eficientes.
+  Estudiante de <b>Ingeniería en TIC</b>, con gran interés en la ciencia de datos y el aprendizaje automático (Machine Learning). Cuento con formación sólida en programación, enfocado en el desarrollo de software y la automatización de procesos. Tengo experiencia en proyectos académicos y trabajo en equipo, siempre orientado a aportar valor y soluciones eficientes.
 </p>
 
 ###
