@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.imgflip.com/afxx9z.gif" width="150" height="150" style="border-radius: 50%; object-fit: cover;" alt="avatar" />
+  <img height="180" src="https://i.imgflip.com/afxx9z.gif" alt="coding cat gif" />
   
   <h1 style="margin-bottom: 0px;">Christo Alvarez Rodriguez</h1>
   
@@ -43,7 +43,7 @@
         <img src="https://img.shields.io/badge/Ver_Demo_Online-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Live Demo" />
       </a>
       &nbsp;
-      <a href="#" target="_blank">
+      <a href="https://github.com/Varez117/kdd-dashboard-demo" target="_blank">
         <img src="https://img.shields.io/badge/Ver_C%C3%B3digo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo Link" />
       </a>
       <br><br>
