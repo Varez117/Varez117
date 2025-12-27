@@ -67,5 +67,32 @@
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript logo" />
 </div>
+### 🚀 Proyectos Destacados
 
+<table>
+  <tr>
+    <td width="300" valign="top">
+      <h3 align="center">BI Analítica EXANI-II</h3>
+      <div align="center">
+         <img src="https://skillicons.dev/icons?i=py,mysql" height="40" alt="tech stack" />
+      </div>
+    </td>
+    <td valign="top">
+      <a href="URL_DE_TU_REPOSITORIO_AQUI">🔗 <b>Ver Repositorio</b></a>
+      <br>
+      <br>
+      Solución de Business Intelligence (BI) para el sector educativo. Procesa y normaliza resultados masivos del EXANI-II para detectar patrones de rendimiento académico, visualizando KPIs estratégicos mediante dashboards interactivos.
+    </td>
+  </tr>
+</table>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Varez117/count.svg" alt="visitor count" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+</div>
 ###
