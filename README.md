@@ -1,4 +1,12 @@
 <div align="center">
+  <a href="#-sobre-mí" style="text-decoration: none;">👨‍💻 Sobre Mí</a> &nbsp;•&nbsp;
+  <a href="#-proyecto-destacado" style="text-decoration: none;">🚀 Proyectos</a> &nbsp;•&nbsp;
+  <a href="mailto:musicianrz21@gmail.com" style="text-decoration: none;">📧 Contacto</a>
+</div>
+
+<br>
+
+<div align="center">
   <img height="180" src="https://i.imgflip.com/afxx9z.gif" alt="coding cat gif" />
   
   <h1 style="margin-bottom: 0px;">Christo Alvarez Rodriguez</h1>
@@ -13,8 +21,16 @@
 
   <p><i>"La lógica es la esencia, el código su expresión."</i></p>
 
-  <div align="center" style="margin-top: 10px;">
-    <img src="https://skillicons.dev/icons?i=py,java,cpp,cs,html,css,js" height="40" alt="tech stack" />
+  <a href="https://www.linkedin.com/in/christo-%C3%A1lvarez-a5b132230" target="_blank">
+    <img src="https://img.shields.io/badge/Ver_Curriculum-black?style=for-the-badge&logo=linkedin&logoColor=white" alt="CV" />
+  </a>
+
+  <div align="center" style="margin-top: 15px;">
+    <b>Core & Data:</b>&nbsp;
+    <img src="https://skillicons.dev/icons?i=py,java,cpp,cs" height="30" style="vertical-align: middle;" alt="backend" />
+    &nbsp;&nbsp;|&nbsp;&nbsp;
+    <b>Web:</b>&nbsp;
+    <img src="https://skillicons.dev/icons?i=html,css,js" height="30" style="vertical-align: middle;" alt="frontend" />
   </div>
 </div>
 
@@ -54,4 +70,5 @@
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF512F,100:F09819&height=80&section=footer" width="100%"/>
+  <p style="font-size: 0.8em; color: gray;">© 2024 Christo Alvarez. Built with code & logic.</p>
 </div>
