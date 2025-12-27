@@ -27,33 +27,17 @@
 
 ###
 
-<br clear="both">
+<br>
 
-<div align="center">
-  
-  <details>
-    <summary>👋 <b>Sobre mí (Español) - Clic para desplegar</b></summary>
-    <br>
-    <p align="left">
-      Estudiante de <b>Ingeniería en TIC</b>, con gran interés en la ciencia de datos y el aprendizaje automático (Machine Learning).
-      <br><br>
-      Cuento con formación sólida en programación, enfocado en el desarrollo de software y la automatización de procesos. Tengo experiencia en proyectos académicos y trabajo en equipo, siempre orientado a aportar valor y soluciones eficientes.
-    </p>
-  </details>
+<h3 align="center">👨‍💻 About Me</h3>
 
-  <br>
+> **🇪🇸 Español** > Estudiante de **Ingeniería en TIC**, con gran interés en la ciencia de datos y el aprendizaje automático (Machine Learning).  
+> Cuento con formación sólida en programación, enfocado en el desarrollo de software y la automatización de procesos. Tengo experiencia en proyectos académicos y trabajo en equipo, siempre orientado a aportar valor y soluciones eficientes.
 
-  <details>
-    <summary>👋 <b>About Me (English) - Click to expand</b></summary>
-    <br>
-    <p align="left">
-      <b>ICT Engineering</b> student with a strong interest in Data Science and Machine Learning.
-      <br><br>
-      I have a solid background in programming, focusing on software development and automation. I have experience in academic projects and teamwork, always value-oriented and driven to provide efficient solutions.
-    </p>
-  </details>
+<br>
 
-</div>
+> **🇺🇸 English** > **ICT Engineering** student with a strong interest in Data Science and Machine Learning.  
+> I have a solid background in programming, focusing on software development and automation. I have experience in academic projects and teamwork, always value-oriented and driven to provide efficient solutions.
 
 ###
 
@@ -98,5 +82,5 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/Varez117/count.svg" alt="visitor count" />
   <br><br>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF512F,100:F09819&height=100&section=footer" width="100%"/>
 </div>
