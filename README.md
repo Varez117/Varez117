@@ -11,19 +11,21 @@
     <i>"La lógica es la esencia, el código su expresión."</i>
   </p>
 
+  <br>
+
+  <h3 align="center">🛠 Lenguajes y Herramientas</h3>
   <div align="center">
-    <a href="https://www.linkedin.com/in/christo-%C3%A1lvarez-a5b132230" target="_blank">
-      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo" />
-    </a>
-    <a href="mailto:musicianrz21@gmail.com" target="_blank">
-      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="37" height="25" alt="gmail logo" />
-    </a>
-    <a href="https://www.instagram.com/varezchristo" target="_blank">
-      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="37" height="25" alt="instagram logo" />
-    </a>
-    <a href="https://www.facebook.com/christopher.alvarez.5895834" target="_blank">
-      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="37" height="25" alt="facebook logo" />
-    </a>
+    <img src="https://skillicons.dev/icons?i=py" height="50" alt="python logo" />
+    <img width="10" />
+    <img src="https://skillicons.dev/icons?i=java" height="50" alt="java logo" />
+    <img width="10" />
+    <img src="https://skillicons.dev/icons?i=cpp" height="50" alt="cplusplus logo" />
+    <img width="10" />
+    <img src="https://skillicons.dev/icons?i=html" height="50" alt="html5 logo" />
+    <img width="10" />
+    <img src="https://skillicons.dev/icons?i=css" height="50" alt="css logo" />
+    <img width="10" />
+    <img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript logo" />
   </div>
 </div>
 
@@ -39,20 +41,20 @@
 
 ###
 
-<h3 align="left">🛠 Lenguajes y Herramientas</h3>
-
+<h3 align="center">📫 Conecta conmigo</h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="50" alt="python logo" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=java" height="50" alt="java logo" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="50" alt="cplusplus logo" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=html" height="50" alt="html5 logo" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=css" height="50" alt="css logo" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript logo" />
+  <a href="https://www.linkedin.com/in/christo-%C3%A1lvarez-a5b132230" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo" />
+  </a>
+  <a href="mailto:musicianrz21@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="37" height="25" alt="gmail logo" />
+  </a>
+  <a href="https://www.instagram.com/varezchristo" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="37" height="25" alt="instagram logo" />
+  </a>
+  <a href="https://www.facebook.com/christopher.alvarez.5895834" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="37" height="25" alt="facebook logo" />
+  </a>
 </div>
 
 ###
@@ -68,8 +70,14 @@
       </div>
     </td>
     <td valign="top">
-      <a href="#">🔗 <b>Ver Repositorio</b></a> <br>
-      <br>
+      <a href="https://kdd-dashboard-demo-cv6dpmn7z75kwszpymax5q.streamlit.app" target="_blank">
+        <img src="https://img.shields.io/badge/Ver_Demo_Online-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Live Demo" />
+      </a>
+      &nbsp;
+      <a href="#" target="_blank"> <img src="https://img.shields.io/badge/Ver_C%C3%B3digo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo Link" />
+      </a>
+      
+      <br><br>
       Solución de Business Intelligence (BI) para el sector educativo. Procesa y normaliza resultados masivos del EXANI-II para detectar patrones de rendimiento académico, visualizando KPIs estratégicos mediante dashboards interactivos.
     </td>
   </tr>
