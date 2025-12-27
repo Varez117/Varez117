@@ -1,12 +1,5 @@
 <div align="center">
-  <a href="#-sobre-mí" style="text-decoration: none;">👨‍💻 Sobre Mí</a> &nbsp;•&nbsp;
-  <a href="#-proyecto-destacado" style="text-decoration: none;">🚀 Proyectos</a> &nbsp;•&nbsp;
-  <a href="mailto:musicianrz21@gmail.com" style="text-decoration: none;">📧 Contacto</a>
-</div>
-
-<br>
-
-<div align="center">
+  <br>
   <img height="180" src="https://i.imgflip.com/afxx9z.gif" alt="coding cat gif" />
   
   <h1 style="margin-bottom: 0px;">Christo Alvarez Rodriguez</h1>
@@ -22,7 +15,7 @@
   <p><i>"La lógica es la esencia, el código su expresión."</i></p>
 
   <a href="https://www.linkedin.com/in/christo-%C3%A1lvarez-a5b132230" target="_blank">
-    <img src="https://img.shields.io/badge/Ver_Curriculum-black?style=for-the-badge&logo=linkedin&logoColor=white" alt="CV" />
+    <img src="https://img.shields.io/badge/Ver_Curriculum-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="CV" />
   </a>
 
   <div align="center" style="margin-top: 15px;">
