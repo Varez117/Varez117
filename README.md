@@ -1,7 +1,13 @@
 <div align="center">
-  <img height="180" src="https://i.imgflip.com/afxx9z.gif" alt="coding cat gif" />
+  <img src="https://i.imgflip.com/afxx9z.gif" height="150" style="border-radius: 50%;" alt="profile picture" />
   
-  <h1 align="center">Varez117</h1>
+  <h1 align="center">Christo Álvarez Rodríguez</h1>
+  
+  <p align="center" style="font-size: 1.1em;">
+    🎂 22 Años &nbsp;|&nbsp; 📍 Tlaxcala, MX &nbsp;|&nbsp; 🗣️ ES / EN
+  </p>
+
+  <br>
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=F09819&center=true&vCenter=true&width=435&lines=Ingenier%C3%ADa+en+TIC;Data+Science+%26+ML;Desarrollo+de+Software;Automatizaci%C3%B3n" alt="Typing SVG" />
