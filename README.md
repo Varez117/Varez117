@@ -1,3 +1,7 @@
+<div align="right">
+  <kbd>🇪🇸 ES</kbd> | <kbd>🇺🇸 EN</kbd>
+</div>
+
 <h2 align="left">Acerca de mi</h2>
 
 ###
@@ -29,10 +33,12 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/afxx9z.gif"  />
+<div align="center">
+  <img height="200" src="https://i.imgflip.com/afxx9z.gif"  />
+</div>
 
 ###
 
-<img src="https://raw.githubusercontent.com/Varez117/Varez117/output/snake.svg" alt="Snake animation" />
+<p align="left">Hello World!!</p>
 
 ###
