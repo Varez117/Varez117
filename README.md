@@ -29,26 +29,31 @@
 
 <br clear="both">
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🇪🇸 Sobre mí</h3>
-      <p align="justify">
-        Estudiante de <b>Ingeniería en TIC</b>, con gran interés en la ciencia de datos y el aprendizaje automático (Machine Learning).
-        <br><br>
-        Cuento con formación sólida en programación, enfocado en el desarrollo de software y la automatización de procesos. Tengo experiencia en proyectos académicos y trabajo en equipo, siempre orientado a aportar valor y soluciones eficientes.
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🇺🇸 About Me</h3>
-      <p align="justify">
-        <b>ICT Engineering</b> student with a strong interest in Data Science and Machine Learning.
-        <br><br>
-        I have a solid background in programming, focusing on software development and automation. I have experience in academic projects and teamwork, always value-oriented and driven to provide efficient solutions.
-      </p>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  
+  <details>
+    <summary>👋 <b>Sobre mí (Español) - Clic para desplegar</b></summary>
+    <br>
+    <p align="left">
+      Estudiante de <b>Ingeniería en TIC</b>, con gran interés en la ciencia de datos y el aprendizaje automático (Machine Learning).
+      <br><br>
+      Cuento con formación sólida en programación, enfocado en el desarrollo de software y la automatización de procesos. Tengo experiencia en proyectos académicos y trabajo en equipo, siempre orientado a aportar valor y soluciones eficientes.
+    </p>
+  </details>
+
+  <br>
+
+  <details>
+    <summary>👋 <b>About Me (English) - Click to expand</b></summary>
+    <br>
+    <p align="left">
+      <b>ICT Engineering</b> student with a strong interest in Data Science and Machine Learning.
+      <br><br>
+      I have a solid background in programming, focusing on software development and automation. I have experience in academic projects and teamwork, always value-oriented and driven to provide efficient solutions.
+    </p>
+  </details>
+
+</div>
 
 ###
 
@@ -67,7 +72,10 @@
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript logo" />
 </div>
-### 🚀 Proyectos Destacados
+
+###
+
+<h3 align="left">🚀 Proyectos Destacados</h3>
 
 <table>
   <tr>
@@ -78,8 +86,7 @@
       </div>
     </td>
     <td valign="top">
-      <a href="URL_DE_TU_REPOSITORIO_AQUI">🔗 <b>Ver Repositorio</b></a>
-      <br>
+      <a href="#">🔗 <b>Ver Repositorio</b></a> <br>
       <br>
       Solución de Business Intelligence (BI) para el sector educativo. Procesa y normaliza resultados masivos del EXANI-II para detectar patrones de rendimiento académico, visualizando KPIs estratégicos mediante dashboards interactivos.
     </td>
@@ -90,9 +97,6 @@
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/Varez117/count.svg" alt="visitor count" />
-</div>
-
-<div align="center">
+  <br><br>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 </div>
-###
