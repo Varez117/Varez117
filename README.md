@@ -18,12 +18,16 @@
     <img src="https://img.shields.io/badge/Ver_Curriculum-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="CV" />
   </a>
 
-  <div align="center" style="margin-top: 15px;">
-    <b>Core & Data:</b>&nbsp;
-    <img src="https://skillicons.dev/icons?i=py,java,cpp,cs" height="30" style="vertical-align: middle;" alt="backend" />
-    &nbsp;&nbsp;|&nbsp;&nbsp;
-    <b>Web:</b>&nbsp;
-    <img src="https://skillicons.dev/icons?i=html,css,js" height="30" style="vertical-align: middle;" alt="frontend" />
+  <div align="center" style="margin-top: 20px;">
+    <b>Core:</b> <img src="https://skillicons.dev/icons?i=py,java,cpp,cs" height="25" style="vertical-align: middle;" /> &nbsp;|&nbsp;
+    <b>Web:</b> <img src="https://skillicons.dev/icons?i=html,css,js" height="25" style="vertical-align: middle;" /> &nbsp;|&nbsp;
+    <b>Tools:</b> <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,mysql" height="25" style="vertical-align: middle;" />
+    
+    <br><br>
+    
+    <img src="https://img.shields.io/badge/Metodolog%C3%ADa-Scrum_&_Agile-5C5C5C?style=flat-square" />
+    <img src="https://img.shields.io/badge/Focus-Data_Analysis-5C5C5C?style=flat-square" />
+    <img src="https://img.shields.io/badge/Skill-Problem_Solving-5C5C5C?style=flat-square" />
   </div>
 </div>
 
