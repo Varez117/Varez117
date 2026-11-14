@@ -45,7 +45,12 @@
   <tr>
     <td width="300" valign="top">
       <h3 align="center">BI Analítica EXANI-II</h3>
-      <div align="center"><img src="https://skillicons.dev/icons?i=py,mysql" height="40" alt="tech stack" /></div>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
+        <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" alt="Plotly" />
+      </div>
     </td>
     <td valign="top">
       <a href="https://kdd-dashboard-demo-cv6dpmn7z75kwszpymax5q.streamlit.app" target="_blank">
@@ -61,7 +66,16 @@
   </tr>
 </table>
 
+<h3 align="center">🐍 Mi actividad en GitHub</h3>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Varez117/Varez117/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Varez117/Varez117/output/snake.svg" />
+    <img alt="Serpiente comiéndose mis contribuciones" src="https://raw.githubusercontent.com/Varez117/Varez117/output/snake.svg" />
+  </picture>
+</div>
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF512F,100:F09819&height=80&section=footer" width="100%"/>
-  <p style="font-size: 0.8em; color: gray;">© 2024 Christo Alvarez. Built with code & logic.</p>
+  <p style="font-size: 0.8em; color: gray;">© 2026 Christo Alvarez. Built with code & logic.</p>
 </div>
